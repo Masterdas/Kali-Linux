@@ -34,7 +34,16 @@ wget -O kali-nethunter-daily-dev-rootfs-full-arm64.tar.xz https://kali.download/
 ```
 ./install-nethunter
 ```
-
+### After installation complete run this command 
+```
+nethunter
+```
+```
+kex passwd 
+```
+```
+kex
+```
 ---
 ## 📌 Contact Me  
 
