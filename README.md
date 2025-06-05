@@ -2,7 +2,7 @@
 
 A powerful collection of scripts and tools for ethical hacking, penetration testing, and cybersecurity automation using Kali Linux.
 
-<h1 align="center"><u>Kali Linux Install any Android Phone</u></h1>
+<h1 align="center"><u>Install any Android Phone</u></h1>
 
 <a href="https://youtu.be/_LZpwUM91UU" target="_blank">
   <img src="https://raw.githubusercontent.com/Masterdas/Kali-Linux/refs/heads/main/kali.jpg" alt="Android Kali Image">
