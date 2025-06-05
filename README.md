@@ -1,3 +1,7 @@
+# Kali Linux Ethical Hacking Toolkit 🔐🛠️
+
+A powerful collection of scripts and tools for ethical hacking, penetration testing, and cybersecurity automation using Kali Linux.
+
 <h1 align="center"><u>Kali Linux Install any Android Phone</u></h1>
 
 <a href="https://youtu.be/_LZpwUM91UU" target="_blank">
