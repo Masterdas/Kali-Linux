@@ -24,15 +24,20 @@ wget -O install-nethunter-termux https://offs.ec/2MceZWr
 chmod +x install-nethunter-termux && ./install-nethunter-termux
 ```
 ---
-### After installation complete run this command 
+### configure the KeX password (only needed before 1st use)
 ```
-nethunter
+nethunter kex passwd
+```
+### New Password Setup commands
+```
+kex passwd
+```
+### Start Kali NetHunter Desktop VNC Server
+```
+nethunter kex &
 ```
 ```
-kex passwd 
-```
-```
-kex
+nethunter kex stop
 ```
 ---
 ### Kali Nethunter Download 404 Error Fix Comments 
@@ -63,3 +68,11 @@ wget -O kali-nethunter-daily-dev-rootfs-full-arm64.tar.xz https://kali.download/
 <a href="https://www.kali.org/docs/nethunter/nethunter-rootless/" target="_blank">
   <img src="https://www.kali.org/docs/nethunter/nethunter-rootless/020-NH-Rootless-KeX_s.png" alt="Android Kali Image">
 </a>
+
+### Kali Linux and Nethunter 
+```
+sudo apt update && sudo apt full-upgrade -y
+```
+```
+sudo apt install -y kali-linux-default
+```
