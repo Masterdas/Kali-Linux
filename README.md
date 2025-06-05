@@ -58,7 +58,6 @@ wget -O kali-nethunter-daily-dev-rootfs-full-arm64.tar.xz https://kali.download/
 ```
 nethunter kex passwd
 ```
-```
 ### Start Kali NetHunter Desktop VNC Server
 ```
 nethunter kex &
