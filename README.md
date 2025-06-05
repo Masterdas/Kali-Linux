@@ -7,10 +7,7 @@
 ### ▶️ [Kali Nethunter Kex App](https://firebasestorage.googleapis.com/v0/b/download-e5575.appspot.com/o/com.offsec.nethunter.kex-11407306.apk?alt=media&token=8a64eba2-723c-4bad-82fd-bc3988b7b72e)
 
 ### ▶️ [Demo Server Setup video](https://youtu.be/_LZpwUM91UU)
-### Termux Storege Permissions 
-```
-termux-setup-storage
-```
+### please Allow Termux Storege Permissions 
 
 ### [TERMUX] Kali Linux & Kali Nethunter Install Comments
 
@@ -21,10 +18,10 @@ pkg update && pkg upgrade -y
 pkg install git wget
 ```
 ```
-wget -O install-nethunter https://offs.ec/2MceZWr
+wget -O install-nethunter-termux https://offs.ec/2MceZWr
 ```
 ```
-chmod +x install-nethunter && ./install-nethunter
+chmod +x install-nethunter-termux && ./install-nethunter-termux
 ```
 ---
 ### Termux New Update Error Fix Comments 
@@ -32,7 +29,7 @@ chmod +x install-nethunter && ./install-nethunter
 wget -O kali-nethunter-daily-dev-rootfs-full-arm64.tar.xz https://kali.download/nethunter-images/current/rootfs/kali-nethunter-rootfs-full-arm64.tar.xz
 ```
 ```
-./install-nethunter
+./install-nethunter-termux
 ```
 ### After installation complete run this command 
 ```
