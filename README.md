@@ -24,13 +24,6 @@ wget -O install-nethunter-termux https://offs.ec/2MceZWr
 chmod +x install-nethunter-termux && ./install-nethunter-termux
 ```
 ---
-### Termux New Update Error Fix Comments 
-```
-wget -O kali-nethunter-daily-dev-rootfs-full-arm64.tar.xz https://kali.download/nethunter-images/current/rootfs/kali-nethunter-rootfs-full-arm64.tar.xz
-```
-```
-./install-nethunter-termux
-```
 ### After installation complete run this command 
 ```
 nethunter
@@ -42,6 +35,13 @@ kex passwd
 kex
 ```
 ---
+### Kali Nethunter Download 404 Error Fix Comments 
+```
+wget -O kali-nethunter-daily-dev-rootfs-full-arm64.tar.xz https://kali.download/nethunter-images/current/rootfs/kali-nethunter-rootfs-full-arm64.tar.xz
+```
+```
+./install-nethunter-termux
+```
 ## 📌 Contact Me  
 
 <a href="https://youtube.com/@zerodarknexus">
