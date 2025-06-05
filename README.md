@@ -54,13 +54,10 @@ wget -O kali-nethunter-daily-dev-rootfs-full-arm64.tar.xz https://kali.download/
 </a>
 
 ---
-### configure the KeX password (only needed before 1st use)
+### Configure the Kex password (only needed before 1st use)
 ```
 nethunter kex passwd
 ```
-### New Password Setup commands
-```
-kex passwd
 ```
 ### Start Kali NetHunter Desktop VNC Server
 ```
